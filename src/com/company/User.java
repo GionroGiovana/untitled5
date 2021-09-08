@@ -13,7 +13,6 @@ public class User {
         this.login = login;
         this.email = email;
         this.password = password;
-        lastID++;
     }
 
     public void stats(){
